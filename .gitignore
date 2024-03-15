@@ -1,0 +1,4 @@
+#ignore any file in folder admin
+admin/connect.php
+admin/header.php
+admin/ketnoi.php
